@@ -1,2 +1,4 @@
-for i in range(100):
-    print("funciona")
+def prueba(i):
+    for i in range(i):
+        print("funciona")
+prueba(10)
